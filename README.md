@@ -10,7 +10,7 @@ This project explores the possibility of potential ET communication by the trans
   - Investigate the use of different communication protocols.
   - Implement more complex modulation techniques for improved signal robustness.
 ## Circuit Diagrams
-![circuit](https://github.com/user-attachments/assets/299920ad-35a9-4fdc-9a06-25ef99901fc4)
+![circuit (1)](https://github.com/user-attachments/assets/6072d075-9905-4c69-bc97-7e1f2a62102c)
 ___________________________________________________________________________________________________
 ![20250115_181413](https://github.com/user-attachments/assets/72d94d7f-27ee-4eff-8b82-57dba7416150)
 
